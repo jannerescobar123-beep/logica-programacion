@@ -1,4 +1,4 @@
-package condicionales_y_ciclos;
+package Condicionales;
 import java.util.Scanner;
 public class taller_2_condicionales {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package condicionales_y_ciclos;
+package Ciclos;
 
 import java.util.Scanner;
 
