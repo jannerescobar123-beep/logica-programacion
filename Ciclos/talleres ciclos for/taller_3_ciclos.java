@@ -1,0 +1,12 @@
+package condicionales_y_ciclos;
+import java.util.Scanner;
+
+public class taller_3_ciclos {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        for(int i = 1; i <= 50; i = i + 2){
+            System.out.println(i);
+        }
+        scanner.close();
+    }
+}
