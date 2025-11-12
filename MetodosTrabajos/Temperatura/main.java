@@ -21,7 +21,7 @@ public class Main {
             System.out.println("Ingrese la temperatura en Celsius");
             double Celsius = scanner.nextDouble();
             Temperatura temperatura = new Temperatura();
-            
+
             switch (opcion) {
                 case 1:
                     double resultado = temperatura.convertirAKelvin(Celsius);
