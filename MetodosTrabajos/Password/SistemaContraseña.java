@@ -13,5 +13,4 @@ public class SistemaContraseña {
             System.out.println("Acceso denegado. Intento " + intento);
         }
     }
-
 }
