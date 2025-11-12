@@ -1,4 +1,4 @@
-package Segundo Trimestre.Logica de programacion.MetodosTrabajos.Calculadora;
+package Segundo_Trimestre.Logica_de_programacion.MetodosTrabajos.Calculadora;
 
 import java.util.Scanner;
 
