@@ -1,5 +1,3 @@
-package Segundo_Trimestre.Logica_de_programacion.MetodosTrabajos.Calculadora;
-
 import java.util.Scanner;
 
 public class calculadora {
