@@ -7,7 +7,6 @@ public class Discord_4{
         int numIncio;
         int numFin;
         int suma = 0;
-        String sumaTexto = "";
 
         Scanner sc = new Scanner(System.in);
         System.out.println("Ingrese un número entero para iniciar la suma:");

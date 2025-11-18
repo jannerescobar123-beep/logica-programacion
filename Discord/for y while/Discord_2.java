@@ -10,7 +10,6 @@ public class Discord_2 {
 
         Scanner sc = new Scanner(System.in);
         System.out.println("Ingrese un número entero:");
-        int num = sc.nextInt();
         sc.close();
 
         for (int i = 5; i > 0; i--) {
