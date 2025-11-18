@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    background: #f1f1f1;
+    font-family: Arial, sans-serif;
+}
+.topbar {
+    background: #0ae13c;
+    padding: 15px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+.panel {
+    background: rgb(14, 217, 68);
+    margin: 20px;
+    padding: 20px;
+}
+.cards {
+    display: flex;
+    gap: 30px; 
+}
+.tarjeta {
+    background: #f5f7f6;
+    flex: 40%; 
+    height: 110px;
+    border-radius: 20px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+h2 {
+color: white;
+}
