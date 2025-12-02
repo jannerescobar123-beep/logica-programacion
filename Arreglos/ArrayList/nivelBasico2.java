@@ -22,6 +22,7 @@ public class nivelBasico2 {
         } else {
             System.out.println("el nombre no esta en la lista");
         }
+        scanner.close();
     }
 
 }

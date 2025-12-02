@@ -33,6 +33,6 @@ public class nivelBasico3 {
             }
         }
 
-
+sc.close();
     }
 }
