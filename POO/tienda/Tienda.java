@@ -82,6 +82,5 @@ public class Tienda {
                     break;
             }
         }
-        scanner.close();
     }
 }
