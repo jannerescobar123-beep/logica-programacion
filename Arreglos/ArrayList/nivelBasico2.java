@@ -17,7 +17,7 @@ public class nivelBasico2 {
         System.out.println("ingrese un nombre: ");
         String nombre = scanner.nextLine();
 
-        if (nombres.contains(nombre)) {
+        if (nombres.contains(nombre.toLowerCase())) {
             System.out.println("el nombres esta en la lista");
         } else {
             System.out.println("el nombre no esta en la lista");
