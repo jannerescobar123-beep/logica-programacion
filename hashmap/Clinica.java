@@ -56,6 +56,5 @@ public class Clinica {
         } else {
             System.out.println("documento no encontrado");
         }
-
     }
 }

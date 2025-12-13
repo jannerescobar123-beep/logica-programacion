@@ -7,7 +7,7 @@ public class taller_1_condicionales {
         System.out.println("digite su edad: ");
         int edad = scanner.nextInt();
 
-        if (edad >= 18) {
+        if (edad >= 40) {
             System.out.println("es mayor de edad");
             
         }else{
